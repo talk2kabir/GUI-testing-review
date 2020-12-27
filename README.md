@@ -72,5 +72,13 @@ The paper systematically reviews literature published between 2011 and 2020, to 
 59. FSE 2012 Automated Concolic Testing of Smartphone Apps
 60. ASE 2012 Using GUI Ripping for Automated Testing of Android Applications
 61. AST 2011 Automating GUI Testing for Android Applications
+62. ICST 2011 Experiences of System-Level Model-Based GUI Testing of an Android Application
+63. ICSE 2018 DroidMate-2- A Platform for Android Test Generation
+64. ICSE 2017 DroidBot- A Lightweight UI-Guided Test Input Generator for Android
+65. 2020 CAT- Change-focused Android GUI Testing
+66. ICSE 2020 ComboDroid- generating high-quality test inputs for Android apps via use case combinations
+67. ICSTW 2020 Model-Based Testing of GUI Applications Featuring Dynamic Instanciation of Widgets
+68. SCP 2020 Efficient testing of GUI applications by event sequence reduction
+
 
 
